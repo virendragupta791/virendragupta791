@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Virendra Gupta | Python & Web Developer 👨‍💻<br>🎓 B.Tech CSE | 💡 Problem Solver | 📊 Data Enthusiast<br><br>🔹 Tech Stack: Python 🐍 | MySQL 🗄️ | HTML, CSS, JS 🌐 | PHP 🛠️<br>🔹 Projects: Weather App ⛅ | Mentor Match Platform 👥<br>🔹 Certifications: Google, Coursera, NPTEL 📜<br>🔹 Hackathons & Coding: CodeKaze Rank 🏆 | 4⭐ Python at HackerRank<br><br>📬 Let's connect! 🚀
+🚀 Virendra Gupta | Software Developer 👨‍💻<br>🎓 B.Tech CSE | 💡 Problem Solver | 📊 Data Enthusiast<br><br>🔹 Tech Stack: Python 🐍 | MySQL 🗄️ | HTML, CSS, JS 🌐 | PHP 🛠️<br>🔹 Projects: Weather App ⛅ | Mentor Match Platform 👥<br>🔹 Certifications: Google, Coursera, NPTEL 📜<br>🔹 Hackathons & Coding: CodeKaze Rank 🏆 | 4⭐ Python at HackerRank<br><br>📬 Let's connect! 🚀
 
 
 ## 🌐 Socials:
